@@ -23,7 +23,7 @@ class Config(object):
     TOSH_START = os.environ.get("TOSH_START", None)
     TZ = os.environ.get("TZ", "Africa/Cairo")
     UPSTREAM_REPO = os.environ.get(
-        "UPSTREAM_REPO", "https://github.com/JAI6H/ICSS-USERBOT.git"
+        "UPSTREAM_REPO", "https://github.com/AKJAMO/JAVA-USERBOT"
     )
 
     AUTONAME = os.environ.get("AUTONAME", None)
